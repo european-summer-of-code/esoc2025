@@ -169,3 +169,58 @@ Some examples are [in the project list below](https://github.com/european-summer
 
 
 ## 2025 Project list
+
+### Applied projects
+
+
+
+
+### Open Source projects
+
+
+
+
+#### **sktime**
+
+**The unified framework for machine learning with time series**
+
+Contribute to `sktime`! `sktime` offers a unified API for forecasting, classification, detection, and other learning tasks.
+Exciting projects are available in the areas of deep learning, foundation models, probabilistic forecasting, and more.
+
+##### About sktime
+
+`sktime` is an open-source project backed by an active community of researchers and developers. It is openly governed, and follows a mission of technical integration and content neutrality.
+
+[GitHub repo](https://github.com/sktime/sktime) · [Discord](https://discord.com/invite/54ACzaFsn7) · [Documentation](https://www.sktime.net)
+
+##### 2025 ESoC projects
+
+Multiple projects are available: [project ideas 2025](https://github.com/sktime/mentoring/blob/main/internships/projects_2025.md)
+
+**HOW TO APPLY:** follow the [sktime application guide](https://github.com/sktime/mentoring/blob/main/internships/esoc2025.md)
+
+* Deadline: April 7, 18:00 UTC
+* T&C: pro-rated stipend from German Center of Open Source AI
+
+
+#### pytorch-forecasting & dsip-ts
+
+**Deep learning for time series forecasting made easy with PyTorch**
+
+`pytorch-forecasting` is a Python library built on PyTorch, designed to simplify training and using deep learning models for time series forecasting.
+Projects are available, focusing on improving model interfaces, upgrading the package to include foundation models, and more!
+
+##### About pytorch-forecasting
+
+`pytorch-forecasting` is maintained by the `sktime` community in collaboration with GC.OS and FBK (ESoC hubs), a merge with `dsipt-ts` is planned for the upcoming 2.0 release. 
+
+[GitHub repo](https://github.com/sktime/pytorch-forecasting) · [Discord](https://discord.com/invite/54ACzaFsn7)
+
+##### 2025 ESoC projects
+
+Multiple projects are available: [project ideas 2025](https://github.com/sktime/mentoring/blob/main/internships/projects_2025.md)
+
+**HOW TO APPLY:** follow the [sktime application guide](https://github.com/sktime/mentoring/blob/main/internships/esoc2025.md) - this includes projects for `pytorch-forecasting`
+
+* Deadline: April 7, 18:00 UTC
+* T&C: pro-rated stipend from German Center of Open Source AI
