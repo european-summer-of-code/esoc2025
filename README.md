@@ -175,8 +175,26 @@ Some examples are [in the project list below](https://github.com/european-summer
 
 ## Applied projects
 
+### **ecoSPECS - AI for biotechnological cleanroom design**
+
+Build AI for design and equipment qualification of cleanrooms for biotech and pharmacological applications! Work with German engineering services provider ecoSPECS to fundamentally accelerate qualification processes in drug development, production, and monitoring worldwide.
+
+##### Project overview ([link to detail info sheet](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/ecospecs.md))
+
+Cleanroom design for biotech applications involves numerous "boilerplate steps". For instance, creating documentation in pre-specified format, particularly for identifying design and quality requirements within user specifications.
+
+Although the design process is expert-driven, significant amount of formulaic editorial work is required. AI could allow experts to focus on complex design tasks, rather than spending time on boilerplate. This would lead to significant acceleration and cost savings in the availability of biotechnological and pharmaceutical processes, systems, and equipment.
 
 
+
+##### About ecoSPECS
+
+[ecoSPECS](https://ecospecs.de/en/) is a German engineering service provider, specializing in services such as qualification, validation, consulting, training, and project planning across various industries, with a focus on pharmaceuticals, engineering, and food production.
+
+**HOW TO APPLY**
+
+* Deadline: April 7, 18:00 UTC
+* T&C: pro-rated stipend from German Center of Open Source AI. Data sharing agreement required.
 
 ## Open Source projects
 
