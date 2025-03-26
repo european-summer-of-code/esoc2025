@@ -160,7 +160,7 @@ Project cards should include:
 * one-sentence description
 * paragraph: project goals
 * paragraph: about the organization (optional: logo)
-* paragraph: technical details
+* paragraph: technical details (very short - link details)
 * clear "HOW TO APPLY" info, deadlines
 * optional: eye catcher image
 * optional links to: more details, data (where applicable), videos or presentations
@@ -168,19 +168,16 @@ Project cards should include:
 Some examples are [in the project list below](https://github.com/european-summer-of-code/esoc2025#2025-project-list).
 
 
-## 2025 Project list
+# 2025 Project list
 
-### Applied projects
-
-
-
-
-### Open Source projects
+## Applied projects
 
 
 
 
-#### **sktime**
+## Open Source projects
+
+### **sktime**
 
 **The unified framework for machine learning with time series**
 
@@ -202,8 +199,9 @@ Multiple projects are available: [project ideas 2025](https://github.com/sktime/
 * Deadline: April 7, 18:00 UTC
 * T&C: pro-rated stipend from German Center of Open Source AI
 
+---
 
-#### pytorch-forecasting & dsip-ts
+### pytorch-forecasting & dsip-ts
 
 **Deep learning for time series forecasting made easy with PyTorch**
 
@@ -224,3 +222,5 @@ Multiple projects are available: [project ideas 2025](https://github.com/sktime/
 
 * Deadline: April 7, 18:00 UTC
 * T&C: pro-rated stipend from German Center of Open Source AI
+
+---
