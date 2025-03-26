@@ -210,17 +210,18 @@ Projects are available, focusing on improving model interfaces, upgrading the pa
 
 ##### About pytorch-forecasting
 
-`pytorch-forecasting` is maintained by the `sktime` community in collaboration with GC.OS and FBK (ESoC hubs), a merge with `dsipt-ts` is planned for the upcoming 2.0 release. 
+`pytorch-forecasting` is maintained by the `sktime` community in collaboration with GC.OS and FBK (Fondazione Bruno Kessler, ESoC hubs), a merge with `dsipt-ts` is planned for the upcoming 2.0 release. 
 
 [GitHub repo](https://github.com/sktime/pytorch-forecasting) · [Discord](https://discord.com/invite/54ACzaFsn7)
 
 ##### 2025 ESoC projects
 
-Multiple projects are available: [project ideas 2025](https://github.com/sktime/mentoring/blob/main/internships/projects_2025.md)
+Multiple projects are available: [project ideas 2025](https://github.com/sktime/mentoring/blob/main/internships/projects_2025.md) or in the [dedicated card](cards/PTF.md)
 
 **HOW TO APPLY:** follow the [sktime application guide](https://github.com/sktime/mentoring/blob/main/internships/esoc2025.md) - this includes projects for `pytorch-forecasting`
+or follow the instructions in the [dedicated card](cards/PTF.md).
 
 * Deadline: April 7, 18:00 UTC
-* T&C: pro-rated stipend from German Center of Open Source AI
+* T&C: pro-rated stipend from German Center of Open Source AI sponsored by Fondazione Bruno Kessler.
 
 ---
