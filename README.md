@@ -1,3 +1,5 @@
+DRAFT - not final
+
 # European Summer of Code 2025 - Information and Projects
 
 This page contains general information on European Summer of Code 2025:
@@ -12,7 +14,7 @@ This page contains general information on European Summer of Code 2025:
 
 European Summer of Code (ESoC) funds stipends for contributors new to open source,
 and matches open source projects and applied AI projects throughout Europe.
-We are much indepted to the Google Summer of Code for inspiration.
+We are much indebted to the Google Summer of Code for inspiration.
 
 The goals of ESoC are threefold:
 
@@ -56,6 +58,8 @@ and funding opportunities.
 
 Fill out our open source project onboarding form (link tba) to join!
 
+(While form unavailable: [get in touch on LinkedIn](https://www.linkedin.com/company/european-summer-of-code).)
+
 Currently affiliated projects:
 
 * `pykalman`
@@ -86,20 +90,46 @@ Currently affiliated projects:
 
 Applicants need to do *two things*:
 
-* register for ESoC through the [ESOC applicant registration form](https://forms.office.com/e/
-ArWLD0DqVv)
-* follow any additional "how to apply" steps listed on the project card of your preferred projects
+* **register for ESoC** through the [ESOC applicant registration form](https://forms.office.com/e/ArWLD0DqVv)
+* **follow any additional "how to apply" steps from the project card** of your preferred projects
     * the project card may require you to fill out a second form, or complete an additional task
-    * the project card may also simply say that filling out the ESoC form suffices (as long as you)
-    * while there is no limit in the number of projects you can apply for, we recommend to focus on at most 3. Applying to too many projects will reduce your time per application and impact their quality
+    * the project card may also simply say that filling out the ESoC form suffices (as long as you mention the project)
+    * while there is no limit in the number of projects you can apply for (or penalty), we recommend to focus on at most 3. Applying to too many projects will reduce your time per application and impact application quality.
 
-The deadline for completing *both* ESoC application and the project application process
+The deadline for completing *both* ESoC application form, and the project specific application steps,
 is whichever of the following two is earlier: the project application deadline,
-or 18 UTC on May 11, 2025.
+or a fixed date depending on the project batch:
 
-* In case of submitted forms, most allow you to update the submission up until the deadline.
+* 18 UTC on April 11, 2025 for projects in batch 1 (released March 26);
+* 18 UTC on April 24, 2025 for projects in batch 2 (released April 8);
+* 18 UTC on May 11, 2025 for projects in batch 3 (released April 25).
+
+#### FAQs and recommendations
+
+* please ensure your submitted e-mail address is correct. Letters will be sent to this e-mail address.
+* ensure to note down relevant date periods in advance, and ensure to check your e-mail in those periods.
+* In case of submitted forms, most forms allow you to update the submission up until the deadline.
 * If this is not the case, simply submit another application under the same name. The last submission received before the deadline for a given project counts.
-    * note that the last *received* forms count here - not *submitted* forms which are not received due to technical error, or received too late. Ensure you submit something early, as some submission systems may overload or not work properly in the last few hours before deadlines.
+    * note that the last *received* forms count here - not *submitted* forms which are not received due to technical error, or received too late.
+    * So ensure you submit something early, as some submission systems may overload or not work properly in the last few hours before deadlines.
+
+### Outcome and project allocation
+
+You will receive an letter from ESoC on your application(s) no later than 6 weeks
+after the application deadline of the batch(es) you applied to.
+
+This can be:
+
+* acceptance to one or multiple projects. This means you are offered a slot.
+* waitlist status for one or multiple projects. This means you may be offered the slot if higher ranked applicants withdraw.
+    * In this case a follow-up letter with acceptance or rejection will be sent at a later time.
+* rejection from one or multiple projects
+
+The letter will be sent to the e-mail address you registered with.
+
+In case of acceptance, you will need to reply to the letter within 1 week of receipt.
+
+Please note: once you accept the offer from a project, any pending applications of yours to other projects are automatically withdrawn, including those from later batches where the outcome may not yet be clear, or projects where you are on the waitlist.
 
 
 ## Project and sponsor guide
@@ -122,7 +152,6 @@ Finalization will require:
     "Default" processes are available, these select for generic AI, python, and open source capabilities.
     * for data driven projects, it will also require finalizing data batches and data sharing processes before the project starts
 
-
 ### Project card
 
 Project cards should include:
@@ -137,5 +166,6 @@ Project cards should include:
 * optional links to: more details, data (where applicable), videos or presentations
 
 Some examples are [in the project list below](https://github.com/european-summer-of-code/esoc2025#2025-project-list).
+
 
 ## 2025 Project list
