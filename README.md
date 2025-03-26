@@ -115,7 +115,7 @@ or a fixed date depending on the project batch:
 
 ### Outcome and project allocation
 
-You will receive an letter from ESoC on your application(s) no later than 6 weeks
+You will receive a letter from ESoC on your application(s) no later than 6 weeks
 after the application deadline of the batch(es) you applied to.
 
 This can be:
@@ -136,10 +136,13 @@ Please note: once you accept the offer from a project, any pending applications 
 
 ### Onboarding process
 
-* Private and public sector organisations wishing to host a project should submit a [project sponsor form](https://forms.office.com/e/0brWFKNrg7). On of our hubs will be in touch shortly after submission.
+* Private and public sector organisations wishing to host a project should submit a [project sponsor form](https://forms.office.com/e/0brWFKNrg7). One of our hubs will be in touch shortly after submission.
 * open source projects should directly contact our [LinkedIn organization](https://www.linkedin.com/company/european-summer-of-code) (to be replaced by a form)
 
-One of our hubs will work with you to prepare your project for one of the three release batches: March 26, April 8, and April 25.
+One of our hubs will work with you to prepare your project for one of the three release batches:
+
+* March 26 - early bird sponsors
+* April 8 and April 25.
 
 Finalization will require:
 
