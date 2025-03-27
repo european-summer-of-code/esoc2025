@@ -4,7 +4,7 @@ This page contains general information on European Summer of Code 2025:
 
 * European Summer of Code: background and org structure
 * For applicants: how to apply, list of projects 2025
-* For projects: timelines
+* For projects: how ot join, timelines
 
 ## Changelog
 
