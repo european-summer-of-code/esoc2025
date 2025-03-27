@@ -1,5 +1,3 @@
-DRAFT - not final
-
 # European Summer of Code 2025 - Information and Projects
 
 This page contains general information on European Summer of Code 2025:
