@@ -7,12 +7,7 @@ Participation is subject to the [sktime Code of Conduct](https://www.sktime.org/
 
 In the remainder of this page:
 - [Why PTF](WhyPTF?)
-- The application process
-  - [PTF application form](PFTapplication)
-  - [Interview](Interview)
-  - [Selection criteria](Selectioncriteria)
-- [What we expect from you](Whatweexpectfromyou)
-- [What you can expect from us](Whatyoucanexpectfromus)
+- [The application process](ApplicationProcess)
 - [Proposal Detail](ProposalDetail)
 - [Mentors](Mentors)
 
@@ -31,7 +26,11 @@ The PTF V2 will be based on other open source projects such as [DSIPTS](https://
 
 **Are you ready for this?**
 
+## Application process
 
+Please follow the  application process for `sktime` affiliated projects:
+
+https://github.com/sktime/mentoring/blob/main/internships/esoc2025.md
 
 ## Proposal Detail
 
