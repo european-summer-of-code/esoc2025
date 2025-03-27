@@ -47,4 +47,4 @@ The selected candidate will:
     * HPC interface (for example using  [hydra](https://hydra.cc/docs/intro/) sweepers)
 
 ## Mentors
-The project is sponsored by [Fondazione Bruno Kessler](https://www.fbk.eu/it/), [Digital Industry center](https://www.fbk.eu/it/digital-industry/), [DSIP unit](https://dsip.fbk.eu/) and  will be jointly mentored by the DSIP unit (Andrea Gobbi, main developer of [DSIPTS](https://github.com/agobbifbk/DSIPTS_PTF)) and from members from GOCS (`PTF` and `sktime` library).
+The project is sponsored by [Fondazione Bruno Kessler](https://www.fbk.eu/it/), [Digital Industry center](https://www.fbk.eu/it/digital-industry/), [DSIP unit](https://dsip.fbk.eu/) and  will be jointly mentored by the DSIP unit (Andrea Gobbi, main developer of [DSIPTS](https://github.com/agobbifbk/DSIPTS_PTF)) and from members from GC.OS (`PTF` and `sktime` library).
