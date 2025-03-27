@@ -100,7 +100,7 @@ Currently affiliated projects:
 
 Applicants need to do *two things*:
 
-* **register for ESoC** through the [ESOC applicant registration form](https://forms.office.com/e/ArWLD0DqVv)
+* **register for ESoC** through the [ESoC applicant registration form](https://forms.office.com/e/ArWLD0DqVv)
 * **follow any additional "how to apply" steps from the project card** of your preferred projects
     * the project card may require you to fill out a second form, or complete an additional task
     * the project card may also simply say that filling out the ESoC form suffices (as long as you mention the project)
@@ -117,6 +117,7 @@ or a fixed date depending on the project batch:
 #### FAQs and recommendations
 
 * please ensure your submitted e-mail address is correct. Letters will be sent to this e-mail address.
+* please use the same name and e-mail for any fields and forms throughout the process
 * ensure to note down relevant date periods in advance, and ensure to check your e-mail in those periods.
 * In case of submitted forms, most forms allow you to update the submission up until the deadline.
 * If this is not the case, simply submit another application under the same name. The last submission received before the deadline for a given project counts.
