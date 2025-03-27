@@ -78,4 +78,55 @@ Addressing these questions will contribute to a better understanding of meta-lea
 - **Data Handling**: Pandas, NumPy, OpenML for dataset collection  
 
 
-## Mentors
+
+# Implementing the Hyperband Algorithm in Hyperactive
+
+## Summary
+
+This project aims to integrate the Hyperband algorithm into the Hyperactive Python package for hyperparameter optimization. Hyperband is an efficient hyperparameter optimization algorithm that dynamically allocates resources to configurations based on their performance in partial training rounds. The primary challenge lies in adapting the Hyperactive API to support this approach, as it requires a mechanism to handle incomplete model training and progressive resource allocation. To ensure broad applicability, the implementation should be model-agnostic, allowing users to specify an adapter function to handle different machine learning models.
+
+This project will involve researching Hyperband, modifying the Hyperactive package to accommodate iterative evaluations, and testing the implementation with multiple machine learning models. The outcome will be a working Hyperband implementation in Hyperactive, making the package more powerful and suitable for large-scale hyperparameter optimization tasks.
+
+
+## Detailed Project Description
+
+### Background
+
+Hyperparameter optimization is essential for improving the performance of machine learning models. Traditional approaches, such as grid search and random search, are inefficient for large hyperparameter spaces. Hyperband is an advanced optimization algorithm that significantly reduces computational costs by allocating resources dynamically and eliminating poor configurations early. It builds on Successive Halving, iteratively training multiple configurations with a fraction of resources and progressively selecting the best ones for further evaluation.
+
+The Hyperactive package provides a flexible framework for hyperparameter optimization but does not yet support Hyperband. Implementing Hyperband in Hyperactive would enhance its capabilities, making it competitive with other hyperparameter optimization tools.
+
+
+## **Technical Overview of the Hyperband Algorithm**  
+
+Hyperband is a hyperparameter optimization algorithm that dynamically allocates computational resources to configurations based on their performance. It builds on **Successive Halving (SHA)** but introduces an adaptive mechanism to balance **exploration (many configurations with few resources)** and **exploitation (fewer configurations with more resources)**.
+
+### **Algorithm Steps**  
+1. **Initialize Configurations**: Start with `n` hyperparameter configurations, each with a small resource budget `r`.  
+2. **Successive Halving**: Train all configurations and discard the worst `1/η` fraction. The remaining configurations get more resources.  
+3. **Repeat Until One Remains**: Continue halving until only one configuration is left, which is trained with the full budget `R`.  
+4. **Multiple SHA Runs**: Run SHA with different initial settings to balance broad exploration and focused refinement.  
+
+
+
+### Project Goals
+
+- Introduce an adapter function that allows users to define how models are trained and evaluated at different resource levels.
+
+- Ensure the implementation is model-agnostic, supporting various machine learning frameworks such as scikit-learn, TensorFlow, and PyTorch.
+
+- Implement an efficient system for tracking intermediate results.
+
+- Test the implementation on a range of machine learning problems.
+
+- Compare results against existing optimization methods to measure performance improvements.
+
+
+### Technical Challenges
+
+- **Managing Partial Training:** Many machine learning models do not natively support incremental training, requiring a custom API design.
+
+- **Efficient Resource Allocation:** Implementing Hyperband's adaptive scheduling within Hyperactive’s existing framework.
+
+- **Ensuring Compatibility:** Maintaining seamless integration with existing Hyperactive features.
+
