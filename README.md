@@ -199,7 +199,7 @@ Although the design process is expert-driven, significant amount of formulaic ed
 
 [ecoSPECS](https://ecospecs.de/en/) is a German engineering service provider, specializing in services such as qualification, validation, consulting, training, and project planning across various industries, with a focus on pharmaceuticals, engineering, and food production.
 
-**HOW TO APPLY** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md)
+**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md)
 
 * Deadline: April 7, 18:00 UTC
 * Hub: German Center for Open Source AI
