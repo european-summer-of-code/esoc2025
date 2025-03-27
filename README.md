@@ -5,8 +5,22 @@ DRAFT - not final
 This page contains general information on European Summer of Code 2025:
 
 * European Summer of Code: background and org structure
-* For applicants: how to apply, list of projects
+* For applicants: how to apply, list of projects 2025
 * For projects: timelines
+
+## Changelog
+
+* **2025-03-27: Applicant Guide, Sponsor Guide pubhlished**
+* **2025-03-27: Early Bird Batch released!**
+
+## Table of contents
+
+- [Information on European Summer of Code](https://github.com/european-summer-of-code/esoc2025/tree/main#information-on-european-summer-of-code)
+- [Applicant Guide](https://github.com/european-summer-of-code/esoc2025/tree/main#applicant-guide)
+- [Sponsor and Project Guide](https://github.com/european-summer-of-code/esoc2025/tree/main#project-and-sponsor-guide)
+- [2025 Project List - Applied Projects](https://github.com/european-summer-of-code/esoc2025/tree/main#applied-projects)
+- [2025 Project List - Open Source Projects](https://github.com/european-summer-of-code/esoc2025/tree/main#open-source-projects)
+
 
 ## Information on European Summer of Code
 
