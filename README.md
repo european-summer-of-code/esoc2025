@@ -140,7 +140,7 @@ Please note: once you accept the offer from a project, any pending applications 
 One of our hubs will work with you to prepare your project for one of the three release batches:
 
 * March 26 - early bird sponsors
-* April 8 and April 25.
+* April 10 and April 25.
 
 Finalization will require:
 
@@ -187,7 +187,7 @@ Although the design process is expert-driven, significant amount of formulaic ed
 
 [ecoSPECS](https://ecospecs.de/en/) is a German engineering service provider, specializing in services such as qualification, validation, consulting, training, and project planning across various industries, with a focus on pharmaceuticals, engineering, and food production.
 
-**HOW TO APPLY**
+**HOW TO APPLY** follow the [GC.OS applied project pplication guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md)
 
 * Deadline: April 7, 18:00 UTC
 * T&C: pro-rated stipend from German Center of Open Source AI. Data sharing agreement required.
