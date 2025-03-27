@@ -6,10 +6,10 @@ Join the Pytorch Forecasting team for a summer full of coding, learning and fun.
 Participation is subject to the [sktime Code of Conduct](https://www.sktime.org/en/stable/get_involved/code_of_conduct.html).
 
 In the remainder of this page:
-- [Why PTF](WhyPTF?)
-- [The application process](ApplicationProcess)
-- [Proposal Detail](ProposalDetail)
-- [Mentors](Mentors)
+- [Why PTF](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/PTF.md#why-ptf)
+- [The application process](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/PTF.md#application-process)
+- [Proposal Detail](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/PTF.md#proposal-detail)
+- [Mentors](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/PTF.md#mentors)
 
 ## Why PTF?
 
