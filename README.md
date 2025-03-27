@@ -24,9 +24,7 @@ The goals of ESoC are threefold:
 
 In particular, we expressly help applied projects to connect with relevant open source,
 open source projects to connect with applied projects and sponsors,
-and applicants to work on open source directly in an applied context
-(this is usually not an element of common US American funding schemes,
-such as Google Summer of Code).
+and applicants to work on open source directly in an applied context.
 
 ### How does ESoC work?
 
@@ -184,8 +182,6 @@ Build AI for design and equipment qualification of cleanrooms for biotech and ph
 Cleanroom design for biotech applications involves numerous "boilerplate steps". For instance, creating documentation in pre-specified format, particularly for identifying design and quality requirements within user specifications.
 
 Although the design process is expert-driven, significant amount of formulaic editorial work is required. AI could allow experts to focus on complex design tasks, rather than spending time on boilerplate. This would lead to significant acceleration and cost savings in the availability of biotechnological and pharmaceutical processes, systems, and equipment.
-
-
 
 ##### About ecoSPECS
 

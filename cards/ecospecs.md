@@ -18,7 +18,7 @@ ecoSPECS, a German engineering service provider, has compiled a unique dataset w
 
 For an easy start, a simplified batch of requirement documents are provided. Examples come in pairs of user requirements (user requirement specification document - URSD) and functional specification documents (FSD). Both types of document combine formulaic structure with free content.
 
-A useful AI system should be able to create a FSD from an URSD instance, with significantly reduced expert input, focusing on content rather than form (e.g., content prompts).
+A useful AI system should be able to create a FSD from an URSD instance, with significantly reduced expert input, focusing on content rather than form (e.g., via content prompts).
 
 Experts to evaluate quality of machine generated FSD, in an overall or detail fashion,
 will be readily accessible throughout the project period.
