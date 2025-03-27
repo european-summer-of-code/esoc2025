@@ -183,6 +183,10 @@ Some examples are [in the project list below](https://github.com/european-summer
 
 # 2025 Project list
 
+* **early bird sponsors released Mar 27**
+* batch 2: April 10
+* batch 3: April 25
+
 ## Applied projects
 
 ### **ecoSPECS - AI for biotechnological cleanroom design**
