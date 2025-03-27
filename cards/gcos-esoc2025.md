@@ -7,11 +7,11 @@ For questions about the process, please contact `info(at)gcos(dot)ai` or the [Li
 European Summer of Code is a paid stipend programme, through May-September 2025.
 
 * ESoC stipend holder participate in onboarding events, regular stand-ups and mentoring throughout the period
-* collaboration is virtual, via GitHub and Discord
+* collaboration is virtual, via GitHub and Discord. Some partner organisations may optionally offer hybrid or in-person collaboration.
 * full time dedication to the stipend project is expected throughout the mid-year period (12 calendar weeks), excluding 5 working days of pause
-* flexible time arrangement are possible, but 3 months full time availability is expected
+* flexible time arrangement are possible, at discretion of partner organisations - but 3 months continuous full time availability is normally expected
 * the internship is accompanied by a pro-rata based on a flat stipend of 4.800 Euro for 3 months full-time equivalent. Disbursement is via stipend through the ESoC hub GC.OS (German Center for Open Source AI)
-* the internship does not constitute formal employment, nor are there delivery expectations. Reimbursement at the discretion of ESoC participating institutions.
+* the internship does not constitute formal employment, nor are there delivery expectations. Reimbursement at the discretion of GC.OS.
 * the project may require signing a data sharing agreement. In this case, the agreement will be shared and can be reviewed by candidates before accepting the stipend.
 
 ## The application process
@@ -28,13 +28,11 @@ Here is the timeline for the application process. There are three stages, explai
 
 If you get stuck or have questions, please feel free to reach out to us on `info(at)gcos(dot)ai` or the [LinkedIn page for ESoC](https://www.linkedin.com/posts/european-summer-of-code)
 
-### Eapplication forms
+### Application forms
 
 The deadline to complete all of these is April 7, 18:00 (UTC).
 
 1. Fill in and submit the [ESoC application form](https://www.linkedin.com/posts/european-summer-of-code_european-summer-of-code-activity-7308135810648715264-RbpO)
-    - you should mention `sktime` as a preferred project here
-    - if you completed the entrance task or engaged prior with the project, you should mention that here.
 
 2. Fill in and submit the [Project application form](https://forms.office.com/e/GhGWQLdseU).
 
