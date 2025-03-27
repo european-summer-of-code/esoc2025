@@ -80,7 +80,7 @@ Currently affiliated projects:
 
 ### Projects
 
-* 2025 projects are released in three batches: March 26, April 8, and April 25.
+* 2025 projects are released in three batches: March 27, April 10, and April 25.
 * projects have their own timelines and may come with their own terms of conditions
 * project specifics are listed in the project card, in the [list of released projects below](https://github.com/european-summer-of-code/esoc2025#2025-project-list)
 
@@ -98,8 +98,8 @@ The deadline for completing *both* ESoC application form, and the project specif
 is whichever of the following two is earlier: the project application deadline,
 or a fixed date depending on the project batch:
 
-* 18 UTC on April 11, 2025 for projects in batch 1 (released March 26);
-* 18 UTC on April 24, 2025 for projects in batch 2 (released April 8);
+* 18 UTC on April 11, 2025 for projects in batch 1 (released March 27);
+* 18 UTC on April 26, 2025 for projects in batch 2 (released April 10);
 * 18 UTC on May 11, 2025 for projects in batch 3 (released April 25).
 
 #### FAQs and recommendations
