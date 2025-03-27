@@ -233,10 +233,9 @@ Projects are available, focusing on improving model interfaces, upgrading the pa
 
 ##### 2025 ESoC projects
 
-Multiple projects are available: [project ideas 2025](https://github.com/sktime/mentoring/blob/main/internships/projects_2025.md) or in the [dedicated card](cards/PTF.md)
+In the **[dedicated card](cards/PTF.md)** you can find more details about the project, some of the activities are taken and grouped from [project ideas 2025](https://github.com/sktime/mentoring/blob/main/internships/projects_2025.md).
 
-**HOW TO APPLY:** follow the [sktime application guide](https://github.com/sktime/mentoring/blob/main/internships/esoc2025.md) - this includes projects for `pytorch-forecasting`
-or follow the instructions in the [dedicated card](cards/PTF.md).
+**HOW TO APPLY:** follow the [sktime application guide](https://github.com/sktime/mentoring/blob/main/internships/esoc2025.md) - this includes projects for `pytorch-forecasting`.
 
 * Deadline: April 7, 18:00 UTC
 * T&C: pro-rated stipend from German Center of Open Source AI sponsored by Fondazione Bruno Kessler.
