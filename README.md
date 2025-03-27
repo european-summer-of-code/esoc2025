@@ -190,7 +190,9 @@ Although the design process is expert-driven, significant amount of formulaic ed
 **HOW TO APPLY** follow the [GC.OS applied project pplication guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md)
 
 * Deadline: April 7, 18:00 UTC
-* T&C: pro-rated stipend from German Center of Open Source AI. Data sharing agreement required.
+* Hub: German Center for Open Source AI
+* Sponsor: ecoSPECS
+* T&C: pro-rated stipend disbursed by German Center of Open Source AI. Data sharing agreement required.
 
 ## Open Source projects
 
@@ -207,14 +209,15 @@ Exciting projects are available in the areas of deep learning, foundation models
 
 [GitHub repo](https://github.com/sktime/sktime) · [Discord](https://discord.com/invite/54ACzaFsn7) · [Documentation](https://www.sktime.net)
 
-##### 2025 ESoC projects
+##### 2025 ESoC projects - hub: GC.OS
 
 Multiple projects are available: [project ideas 2025](https://github.com/sktime/mentoring/blob/main/internships/projects_2025.md)
 
 **HOW TO APPLY:** follow the [sktime application guide](https://github.com/sktime/mentoring/blob/main/internships/esoc2025.md)
 
 * Deadline: April 7, 18:00 UTC
-* T&C: pro-rated stipend from German Center of Open Source AI
+* Hub & Sponsor: German Center for Open Source AI
+* T&C: pro-rated stipend disbursed by German Center for Open Source AI
 
 ---
 
@@ -231,13 +234,14 @@ Projects are available, focusing on improving model interfaces, upgrading the pa
 
 [GitHub repo](https://github.com/sktime/pytorch-forecasting) · [Discord](https://discord.com/invite/54ACzaFsn7)
 
-##### 2025 ESoC projects
+##### 2025 ESoC projects - hubs: FBK, GC.OS
 
 In the **[dedicated card](cards/PTF.md)** you can find more details about the project, some of the activities are taken and grouped from [project ideas 2025](https://github.com/sktime/mentoring/blob/main/internships/projects_2025.md).
 
 **HOW TO APPLY:** follow the [sktime application guide](https://github.com/sktime/mentoring/blob/main/internships/esoc2025.md) - this includes projects for `pytorch-forecasting`.
 
 * Deadline: April 7, 18:00 UTC
-* T&C: pro-rated stipend from German Center of Open Source AI sponsored by Fondazione Bruno Kessler.
+* Hub & Sponsor: Fondazione Bruno Kessler
+* T&C: pro-rated stipend disbursed by German Center for Open Source AI
 
 ---
