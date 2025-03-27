@@ -57,7 +57,7 @@ After the interview, the panel will rank all candidates. This ranking is the fin
 When we inform you of the outcome of the interview, there are two possibilities:
 
 * Acceptance. This is an offer for the project, and you will have time to accept and review terms and conditions (such as data sharing agreements).
-* Waitlist acceptance. This means you are on the waitlist for the project, and you will be offered a slot if higher ranking candidates withdraw, e.g., due to accepting an offer with another project.
+* Waitlist acceptance. This means you are on the waitlist for the project, and you will be offered a slot if higher ranking candidates withdraw, e.g., due to accepting an offer with another project, or if the relevant sponsor decides to increase their stipend budget upon multiple good selection performances.
 * A rejection.
 
 ### Selection criteria
