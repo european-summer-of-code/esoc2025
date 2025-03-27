@@ -201,7 +201,7 @@ Although the design process is expert-driven, significant amount of formulaic ed
 
 **HOW TO APPLY** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md)
 
-* Deadline: April 7, 18:00 UTC
+* Deadline: April 9, 18:00 UTC
 * Hub: German Center for Open Source AI
 * Sponsor: ecoSPECS
 * T&C: pro-rated stipend disbursed by German Center of Open Source AI. Data sharing agreement required.

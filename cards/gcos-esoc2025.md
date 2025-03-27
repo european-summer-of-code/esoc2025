@@ -20,9 +20,9 @@ Here is the timeline for the application process. There are three stages, explai
 
 - March 19, 18:00 (UTC). Applications via the ESoC application form open.
 - March 27, 18:00 (UTC). Applications via the GC.OS application form open.
-- April 7, 18:00 (UTC). First stage. You must complete the ESoC application, and the GC.OS application form by this deadline.
-- April 9. We inform you of the first stage outcome (proceed to interview) *latest* by April 9, but hopefully sooner.
-- April 9 to April 25. Second stage. Interviews happen during this time. Preferred dates are April 15 and 16. Please keep these dates free if possible.
+- April 9, 18:00 (UTC). First stage. You must complete the ESoC application, and the GC.OS application form by this deadline.
+- April 11. We inform you of the first stage outcome (proceed to interview) *latest* by April 11, but hopefully sooner.
+- April 11 to April 25. Second stage. Interviews happen during this time. Preferred dates are April 15 and 16. Please keep these dates free if possible.
 - May 1. We take at most one week to inform you of the final interview outcome.
 - May 15. The project starts.
 
@@ -30,7 +30,7 @@ If you get stuck or have questions, please feel free to reach out to us on `info
 
 ### Application forms
 
-The deadline to complete all of these is April 7, 18:00 (UTC).
+The deadline to complete all of these is April 9, 18:00 (UTC).
 
 1. Fill in and submit the [ESoC application form](https://www.linkedin.com/posts/european-summer-of-code_european-summer-of-code-activity-7308135810648715264-RbpO)
 
@@ -45,7 +45,7 @@ After the deadline on April 7nd has passed, we will process the information prov
 
 If successful in the above steps, we will invite you to a structured interview (ca. 30 to 60 minutes length; to be finalised) with a panel that consists of members of the partner organisation, and GC.OS staff, or affiliates from open source projects.
 
-The interview will happen in the three-week period April 9 to 25, and our preferred dates are April 15 and 16. Please keep these dates free if possible.
+The interview will happen in the two-week period April 11 to 25, and our preferred dates are April 15 and 16. Please keep these dates free if possible.
 
 During the interview:
 
