@@ -36,7 +36,7 @@ The deadline to complete all of these is April 9, 18:00 (UTC).
 
 2. Fill in and submit the [Project application form](https://forms.office.com/e/GhGWQLdseU).
 
-After the deadline on April 7nd has passed, we will process the information provided and tell you the outcome no later than April 9th. There are two possible outcomes:
+After the deadline on April 9th has passed, we will process the information provided and tell you the outcome no later than April 9th. There are two possible outcomes:
 
 - Progress to interview. See below.
 - Rejection.
