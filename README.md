@@ -124,6 +124,8 @@ or a fixed date depending on the project batch:
     * note that the last *received* forms count here - not *submitted* forms which are not received due to technical error, or received too late.
     * So ensure you submit something early, as some submission systems may overload or not work properly in the last few hours before deadlines.
 
+[Applicant Q&A in the discussion forum](https://github.com/european-summer-of-code/esoc2025/discussions)
+
 ### Outcome and project allocation
 
 You will receive a letter from ESoC on your application(s) no later than 6 weeks
