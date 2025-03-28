@@ -16,17 +16,17 @@ Although the design process is expert-driven, significant amount of formulaic ed
 
 ecoSPECS, a German engineering service provider, has compiled a unique dataset with documentation examples from real and stylized cleanroom and equipment designs. 
 
-For an easy start, a simplified batch of requirement documents are provided. Examples come in pairs of user requirements (user requirement specification document - URSD) and functional specification documents (FSD). Both types of document combine formulaic structure with free content.
+For an easy start, a simplified batch of requirement documents are provided. Examples come in pairs of user requirements (user requirement specification document = URS document) and functional specification documents (FS document). Both types of document combine formulaic structure with free content.
 
-A useful AI system should be able to create a FSD from an URSD instance, with significantly reduced expert input, focusing on content rather than form (e.g., via content prompts).
+A useful AI system should be able to create a FS document from an URS document, with significantly reduced expert input, focusing on content rather than form (e.g., via content prompts).
 
-Experts to evaluate quality of machine generated FSD, in an overall or detail fashion,
+Experts to evaluate quality of machine generated FS document, in an overall or detail fashion,
 will be readily accessible throughout the project period.
 
 Stretch goals may include:
 
-* building a performance measurement suite for quality of FSD,
-* full process mapping with AI automation,
+* building a performance measurement suite for quality of FS documents,
+* widening coverage of AI/automation to further parts of the process,
 * retrieval augmented generation use cases,
 
 all accompanied by unique data sets compiled by ecoSPECS.
