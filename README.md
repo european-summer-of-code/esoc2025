@@ -300,33 +300,9 @@ See [here for a list of projects available.](https://github.com/european-summer-
 
 ---
 
-
-## Applied projects - applications closed
-
-### **ecoSPECS - AI for biotechnological cleanroom design**
-
-Build AI for design and equipment qualification of cleanrooms for biotech and pharmacological applications! Work with German engineering services provider ecoSPECS to fundamentally accelerate qualification processes in drug development, production, and monitoring worldwide.
-
-##### Project overview ([link to detail info sheet](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/ecospecs.md))
-
-Cleanroom design for biotech applications involves numerous "boilerplate steps". For instance, creating documentation in pre-specified format, particularly for identifying design and quality requirements within user specifications.
-
-Although the design process is expert-driven, significant amount of formulaic editorial work is required. AI could allow experts to focus on complex design tasks, rather than spending time on boilerplate. This would lead to significant acceleration and cost savings in the availability of biotechnological and pharmaceutical processes, systems, and equipment.
-
-##### About ecoSPECS
-
-[ecoSPECS](https://ecospecs.de/en/) is a German engineering service provider, specializing in services such as qualification, validation, consulting, training, and project planning across various industries, with a focus on pharmaceuticals, engineering, and food production.
-
-**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md)
-
-* Deadline: April 9, 18:00 UTC
-* Hub: German Center for Open Source AI
-* Sponsor: ecoSPECS
-* T&C: pro-rated stipend disbursed by German Center of Open Source AI. Data sharing agreement required.
-
-## Open Source projects - applications closed
-
 ### **sktime**
+
+**APPLICATIONS CLOSED**
 
 **The unified framework for machine learning with time series**
 
@@ -353,6 +329,8 @@ Multiple projects are available: [project ideas 2025](https://github.com/sktime/
 
 ### pytorch-forecasting & dsip-ts
 
+**APPLICATIONS CLOSED**
+
 **Deep learning for time series forecasting made easy with PyTorch**
 
 `pytorch-forecasting` is a Python library built on PyTorch, designed to simplify training and using deep learning models for time series forecasting.
@@ -375,3 +353,28 @@ In the **[dedicated card](cards/PTF.md)** you can find more details about the pr
 * T&C: pro-rated stipend disbursed by German Center for Open Source AI
 
 ---
+
+## Applied projects
+
+### **ecoSPECS - AI for biotechnological cleanroom design**
+
+**APPLICATIONS CLOSED**
+
+Build AI for design and equipment qualification of cleanrooms for biotech and pharmacological applications! Work with German engineering services provider ecoSPECS to fundamentally accelerate qualification processes in drug development, production, and monitoring worldwide.
+
+##### Project overview ([link to detail info sheet](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/ecospecs.md))
+
+Cleanroom design for biotech applications involves numerous "boilerplate steps". For instance, creating documentation in pre-specified format, particularly for identifying design and quality requirements within user specifications.
+
+Although the design process is expert-driven, significant amount of formulaic editorial work is required. AI could allow experts to focus on complex design tasks, rather than spending time on boilerplate. This would lead to significant acceleration and cost savings in the availability of biotechnological and pharmaceutical processes, systems, and equipment.
+
+##### About ecoSPECS
+
+[ecoSPECS](https://ecospecs.de/en/) is a German engineering service provider, specializing in services such as qualification, validation, consulting, training, and project planning across various industries, with a focus on pharmaceuticals, engineering, and food production.
+
+**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md)
+
+* Deadline: April 9, 18:00 UTC
+* Hub: German Center for Open Source AI
+* Sponsor: ecoSPECS
+* T&C: pro-rated stipend disbursed by German Center of Open Source AI. Data sharing agreement required.
