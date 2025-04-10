@@ -73,8 +73,10 @@ Fill out our open source project onboarding form (link tba) to join!
 
 Currently affiliated projects:
 
+* `pixi`
 * `pykalman`
 * `pytorch-forecasting`
+* `rattler`
 * `scikit-base`
 * `scikit-learn`
 * `skore`
@@ -85,6 +87,7 @@ Currently affiliated projects:
 ##### Incubating
 
 * `dsip-ts`
+* `Gradient-Free-Optimizers`
 * `hyperactive`
 * `prophetverse`
 
