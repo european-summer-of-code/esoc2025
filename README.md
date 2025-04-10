@@ -194,7 +194,7 @@ Some examples are [in the project list below](https://github.com/european-summer
 * **batch 2 projects released April 10**
 * batch 3: April 25
 
-## Open Source projects - applications open
+## Open Source projects
 
 ### **skore**
 
