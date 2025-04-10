@@ -186,11 +186,121 @@ Some examples are [in the project list below](https://github.com/european-summer
 
 # 2025 Project list
 
-* **early bird sponsors released Mar 27**
-* batch 2: April 10
+* early bird sponsors released Mar 27
+* **batch 2 projects released April 10**
 * batch 3: April 25
 
-## Applied projects
+## Open Source projects - applications open
+
+### **skore**
+
+**Elevate ML Development with Built-in Recommended Practices**
+
+Contribute to `skore`, the scikit-learn sidekick! `skore` is the Python library designed to enhance ML development by diagnosing methodological errors, while also providing automated evaluation tools that generate reports with plots, and metrics.
+
+*Help us improve data visualization in skore by implementing more displays, a Plotly display backend and providing access to underlying display data.*
+
+##### About skore & probabl
+
+Probabl delivers universal technology enabling data scientists and teams to make the most of their data, leveraging the best practice in machine learning and artificial intelligence.
+
+Probabl is a spinoff from the Inria research lab and co-founded by experienced tech entrepreneurs and core-developers of `scikit-learn`. Probabl's core mission is to develop and maintain commons for data science.
+
+[GitHub repo](https://github.com/probabl-ai/skore) · [Discord](https://discord.probabl.ai) · [Documentation](https://skore.probabl.ai)
+
+##### 2025 ESoC projects - hub: GC.OS
+
+**HOW TO APPLY:**
+
+1. fill in and submit the [ESoC applicant registration form](https://forms.office.com/e/ArWLD0DqVv), mention `sklearn` or `skore` as an interest
+2. Candidates will be contacted by the team for an entrance task (PR)
+3. Selected candidates will be contacted for a 30 minute interview
+
+* Deadline: April 26, 18:00 UTC
+* Hub & Sponsor: probabl
+* T&C: internship with probabl
+
+---
+
+### **pixi**
+
+**Package Management Made Easy**
+
+`pixi` is a cross-platform, multi-language package manager and workflow tool built on the foundation of the conda ecosystem.
+Projects are available to improve user experience, build user interfaces, and extend scope to more programming languages!
+
+##### About pixi
+
+`pixi` is maintained by an open developer community and the Berlin company `prefix.dev`.
+Its mission is to build a simple package manager for all programming languages.
+
+[GitHub repo](https://github.com/prefix-dev/pixi) · [Discord](https://discord.gg/kKV8ZxyzY4)
+
+##### 2025 ESoC projects
+
+See here for a list of projects available.
+
+**HOW TO APPLY:** mention `pixi` on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
+Then, make a pull request on a good first issue by April 26. You will be contacted with further details by the `pixi` team.
+
+* Deadline: April 26, 18:00 UTC
+* Hub: German Center for Open Source AI
+* Sponsor: prefix.dev
+* T&C: pro-rated stipend disbursed by German Center for Open Source AI
+
+---
+
+### **rattler**
+
+**Rust crates for fast handling of conda packages**
+
+`rattler` is a library that provides common functionality used within the conda ecosystem.
+Projects are available to implement build process mechanisms, for instance via parallelization
+
+##### About rattler
+
+The goal of `rattler` is to enable programs and other libraries to easily interact with the conda ecosystem without being dependent on Python. Its primary use case is as a library that you can use to provide conda related workflows in your own tools.
+
+[GitHub repo](https://github.com/conda/rattler) · [Discord](https://discord.gg/kKV8ZxyzY4)
+
+##### 2025 ESoC projects
+
+See here for a list of projects available.
+
+**HOW TO APPLY:** mention `rattler` on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
+Then, make a pull request on a good first issue by April 26. You will be contacted with further details by the `rattler` team.
+
+* Deadline: April 26, 18:00 UTC
+* Hub: German Center for Open Source AI
+* Sponsor: prefix.dev
+* T&C: pro-rated stipend disbursed by German Center for Open Source AI
+
+---
+
+### **Gradient-Free-Optimizers and hyperactive**
+
+**Simple and reliable optimization with local, global, population-based and sequential techniques**
+
+##### About GFO & hyperactive
+
+`Gradient-Free-Optimizers` provides a collection of easy to use optimization techniques, whose objective function only requires an arbitrary score that gets maximized. `Gradient-Free-Optimizers` is the optimization backend of the optimizer toolbox `hyperactive`, but it can also be used by itself as a leaner and simpler optimization toolkit.
+
+[GitHub repo](https://github.com/SimonBlanke/Gradient-Free-Optimizers) · [Discord (shared with sktime)](https://discord.com/invite/54ACzaFsn7)
+
+##### 2025 ESoC projects
+
+See [here for a list of projects available.](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/hyperactive.md)
+
+**HOW TO APPLY:** fill out the [sktime application form](https://forms.gle/bw4vduwQGuM6PZQg9) and submit a project proposal for `hyperactive` and/or GFO.
+
+* Deadline: April 26, 18:00 UTC
+* Hub & Sponsor: German Center for Open Source AI
+* T&C: pro-rated stipend disbursed by German Center for Open Source AI
+
+---
+
+
+## Applied projects - applications closed
 
 ### **ecoSPECS - AI for biotechnological cleanroom design**
 
@@ -213,7 +323,7 @@ Although the design process is expert-driven, significant amount of formulaic ed
 * Sponsor: ecoSPECS
 * T&C: pro-rated stipend disbursed by German Center of Open Source AI. Data sharing agreement required.
 
-## Open Source projects
+## Open Source projects - applications closed
 
 ### **sktime**
 
