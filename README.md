@@ -200,7 +200,7 @@ Some examples are [in the project list below](https://github.com/european-summer
 
 **Elevate ML Development with Built-in Recommended Practices**
 
-Contribute to `skore`, the scikit-learn sidekick! `skore` is the Python library designed to enhance ML development by diagnosing methodological errors, while also providing automated evaluation tools that generate reports with plots, and metrics.
+Contribute to `skore`, the `scikit-learn` sidekick! `skore` is the Python library designed to enhance ML development by diagnosing methodological errors, while also providing automated evaluation tools that generate reports with plots, and metrics.
 
 *Help us improve data visualization in skore by implementing more displays, a Plotly display backend and providing access to underlying display data.*
 
@@ -211,8 +211,6 @@ Probabl delivers universal technology enabling data scientists and teams to make
 Probabl is a spinoff from the Inria research lab and co-founded by experienced tech entrepreneurs and core-developers of `scikit-learn`. Probabl's core mission is to develop and maintain commons for data science.
 
 [GitHub repo](https://github.com/probabl-ai/skore) · [Discord](https://discord.probabl.ai) · [Documentation](https://skore.probabl.ai)
-
-##### 2025 ESoC projects - hub: GC.OS
 
 **HOW TO APPLY:**
 
