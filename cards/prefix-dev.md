@@ -7,12 +7,6 @@ Users have asked us if we can run `rattler-build` package builds in parallel - a
 
 During this task, you would interact with low-level system primitives to handle raw processes and manage system resources!
 
-Pixi Github: http://github.com/prefix-dev/pixi
-
-Project Logo: 
-
-Project Docs: https://pixi.sh
-
 
 ## Pixi UI
 
