@@ -6,7 +6,7 @@ This page contains general information on European Summer of Code 2025:
 * For applicants: how to apply, list of projects 2025
 * For projects: how ot join, timelines
 
-[ESoC webpage](www.esoc.dev) - [ESoC on LinkedIn](https://www.linkedin.com/company/european-summer-of-code)
+[ESoC webpage](https://www.esoc.dev) - [ESoC on LinkedIn](https://www.linkedin.com/company/european-summer-of-code)
 
 ## Changelog
 
