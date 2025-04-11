@@ -240,7 +240,7 @@ Its mission is to build a simple package manager for all programming languages.
 
 ##### 2025 ESoC projects
 
-See here for a list of projects available.
+See [here for a list of projects ideas](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/prefix-dev.md).
 
 **HOW TO APPLY:** mention `pixi` on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
 Then, make a pull request on a good first issue by April 26. You will be contacted with further details by the `pixi` team.
@@ -267,7 +267,7 @@ The goal of `rattler` is to enable programs and other libraries to easily intera
 
 ##### 2025 ESoC projects
 
-See here for a list of projects available.
+See [here for a list of projects ideas](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/prefix-dev.md).
 
 **HOW TO APPLY:** mention `rattler` on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
 Then, make a pull request on a good first issue by April 26. You will be contacted with further details by the `rattler` team.
