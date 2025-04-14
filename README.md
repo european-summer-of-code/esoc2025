@@ -214,11 +214,8 @@ Probabl is a spinoff from the Inria research lab and co-founded by experienced t
 
 [GitHub repo](https://github.com/probabl-ai/skore) · [Discord](https://discord.probabl.ai) · [Documentation](https://skore.probabl.ai)
 
-**HOW TO APPLY:**
-
-1. fill in and submit the [ESoC applicant registration form](https://forms.office.com/e/ArWLD0DqVv), mention `sklearn` or `skore` as an interest
-2. Candidates will be contacted by the team for an entrance task (PR)
-3. Selected candidates will be contacted for a 30 minute interview
+**HOW TO APPLY:** mention `sklearn` or `skore` as an interest on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
+Then, make a pull request on a good first issue by April 26. You will be contacted with further details by the `skore` team.
 
 * Deadline: April 26, 18:00 UTC
 * Hub & Sponsor: probabl
