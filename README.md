@@ -119,7 +119,7 @@ or a fixed date depending on the project batch:
 
 * 18 UTC on April 11, 2025 for projects in batch 1 (released March 27);
 * 18 UTC on April 26, 2025 for projects in batch 2 (released April 10);
-* 18 UTC on May 11, 2025 for projects in batch 3 (released April 25).
+* 18 UTC on May 14, 2025 for projects in batch 3 (released April 28).
 
 #### FAQs and recommendations
 
@@ -195,7 +195,7 @@ Some examples are [in the project list below](https://github.com/european-summer
 
 * early bird sponsors released Mar 27
 * **batch 2 projects released April 10**
-* batch 3: April 25
+* batch 3: April 28
 
 ## Open Source projects
 
