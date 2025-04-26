@@ -10,6 +10,7 @@ This page contains general information on European Summer of Code 2025:
 
 ## Changelog
 
+* **2025-04-28: new Batch 3 projects release date**
 * **2025-04-10: Batch 2 projects released!**
 * **2025-03-27: Applicant Guide, Sponsor Guide published**
 * **2025-03-27: Early Bird Batch of Projects released!**
@@ -98,7 +99,7 @@ Currently affiliated projects:
 
 ### Projects
 
-* 2025 projects are released in three batches: March 27, April 10, and April 25.
+* 2025 projects are released in three batches: March 27, April 10, and April 28.
 * projects have their own timelines and may come with their own terms of conditions
 * project specifics are listed in the project card, in the [list of released projects below](https://github.com/european-summer-of-code/esoc2025#2025-project-list)
 
@@ -161,7 +162,7 @@ Please note: once you accept the offer from a project, any pending applications 
 One of our hubs will work with you to prepare your project for one of the three release batches:
 
 * March 26 - early bird sponsors
-* April 10 and April 25.
+* April 10 and April 28.
 
 Finalization will require:
 
