@@ -266,7 +266,7 @@ It is the major causal modelling package not affiliated with a single commercial
 
 ##### 2025 ESoC projects - hub: GC.OS
 
-Multiple projects are available: [mentored projects 2025](https://github.com/pgmpy/pgmpy/wiki/Mentored-Projects) - you can also suggest your own project, by opening an issue.
+Multiple projects are available: [ESoC projects 2025](https://github.com/pgmpy/pgmpy/wiki/ESoC-2025), [mentored projects 2025](https://github.com/pgmpy/pgmpy/wiki/Mentored-Projects) - you can also suggest your own project, by opening an issue.
 
 **HOW TO APPLY:** mention `pgmpy` as an interest on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
 Then, make a pull request on a good first issue by May 14. You will be contacted with further details by the `pgmpy` team.
