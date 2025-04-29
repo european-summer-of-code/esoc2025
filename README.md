@@ -10,6 +10,7 @@ This page contains general information on European Summer of Code 2025:
 
 ## Changelog
 
+* **2025-04-29: Batch 3 projects released**
 * **2025-04-28: new Batch 3 projects release date**
 * **2025-04-10: Batch 2 projects released!**
 * **2025-03-27: Applicant Guide, Sponsor Guide published**
@@ -77,6 +78,7 @@ Fill out our open source project onboarding form (link tba) to join!
 Currently affiliated projects:
 
 * `pixi`
+* `pgmpy`
 * `pykalman`
 * `pytorch-forecasting`
 * `rattler`
@@ -194,12 +196,90 @@ Some examples are [in the project list below](https://github.com/european-summer
 # 2025 Project list
 
 * early bird sponsors released Mar 27
-* **batch 2 projects released April 10**
-* batch 3: April 28
+* batch 2 projects released April 10
+* **batch 3 projects released April 29**
+
+
+## Applied projects
+
+### **open source AI for drug discovery**
+
+Build open source AI for drug discovery, accelerating aptamer design for diagnostic and medical applications!
+Sponsored by German engineering services provider ecoSPECS.
+
+##### Project overview ([link to detail info sheet](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/aptamer.md))
+
+Aptamers are highly specific biomolecules, which can pave the way for individualised diagnostics and therapy, allowing personalized treatment of various diseases like cancer, infections or autoimmune disorder. Classically done through in-vitro (lab) experiments, AI-driven in-silico approaches have seen promising advances, fuelled by the success of AlphaFold.
+
+Join ecoSPECS and the German Center for Open Source AI to start building an open source ecosystem with reusable AI software tooling, interoperable standards, and data benchmarks!
+
+##### About ecoSPECS
+
+[ecoSPECS](https://ecospecs.de/en/) is a German engineering service provider, specializing in services such as qualification, validation, consulting, training, and project planning across various industries, with a focus on pharmaceuticals, engineering, and food production.
+
+**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md)
+
+* Deadline: May 14, 18:00 UTC
+* Hub: German Center for Open Source AI
+* Sponsor: ecoSPECS
+* T&C: pro-rated stipend disbursed by German Center of Open Source AI.
+
+
+### **ecoSPECS - AI for biotechnological cleanroom design**
+
+**APPLICATIONS CLOSED**
+
+Build AI for design and equipment qualification of cleanrooms for biotech and pharmacological applications! Work with German engineering services provider ecoSPECS to fundamentally accelerate qualification processes in drug development, production, and monitoring worldwide.
+
+##### Project overview ([link to detail info sheet](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/ecospecs.md))
+
+Cleanroom design for biotech applications involves numerous "boilerplate steps". For instance, creating documentation in pre-specified format, particularly for identifying design and quality requirements within user specifications.
+
+Although the design process is expert-driven, significant amount of formulaic editorial work is required. AI could allow experts to focus on complex design tasks, rather than spending time on boilerplate. This would lead to significant acceleration and cost savings in the availability of biotechnological and pharmaceutical processes, systems, and equipment.
+
+##### About ecoSPECS
+
+[ecoSPECS](https://ecospecs.de/en/) is a German engineering service provider, specializing in services such as qualification, validation, consulting, training, and project planning across various industries, with a focus on pharmaceuticals, engineering, and food production.
+
+**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md)
+
+* Deadline: April 9, 18:00 UTC
+* Hub: German Center for Open Source AI
+* Sponsor: ecoSPECS
+* T&C: pro-rated stipend disbursed by German Center of Open Source AI. Data sharing agreement required.
+
 
 ## Open Source projects
 
+### **pgmpy**
+
+**The framework for causal inference, causal structure learning, and causal simulation.**
+
+Contribute to `pgmpy` - the causal learning package! Help implement new types of causal models, and increase interoperability of, and within, the package!
+
+##### About pgmpy
+
+`pgmpy` is an open-source project backed by an active community of researchers and developers.
+It is the major causal modelling package not affiliated with a single commercial entity, with a distributed user and maintainer base.
+
+[GitHub repo](https://github.com/pgmpy/pgmpy) · [Discord](https://discord.gg/DRkdKaumBs) · [Documentation](https://pgmpy.org/)
+
+##### 2025 ESoC projects - hub: GC.OS
+
+Multiple projects are available: [mentored projects 2025](https://github.com/pgmpy/pgmpy/wiki/Mentored-Projects) - you can also suggest your own project, by opening an issue.
+
+**HOW TO APPLY:** mention `pgmpy` as an interest on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
+Then, make a pull request on a good first issue by May 14. You will be contacted with further details by the `pgmpy` team.
+
+* Deadline: May 14, 18:00 UTC
+* Hub & Sponsor: German Center for Open Source AI
+* T&C: pro-rated stipend disbursed by German Center for Open Source AI
+
+---
+
 ### **skore**
+
+**APPLICATIONS CLOSED**
 
 **Elevate ML Development with Built-in Recommended Practices**
 
@@ -225,6 +305,8 @@ Then, make a pull request on a good first issue by April 26. You will be contact
 ---
 
 ### **pixi**
+
+**APPLICATIONS CLOSED**
 
 **Package Management Made Easy**
 
@@ -254,6 +336,8 @@ Then, make a pull request on a good first issue by April 26. You will be contact
 
 ### **rattler**
 
+**APPLICATIONS CLOSED**
+
 **Rust crates for fast handling of conda packages**
 
 `rattler` is a library that provides common functionality used within the conda ecosystem.
@@ -280,6 +364,8 @@ Then, make a pull request on a good first issue by April 26. You will be contact
 ---
 
 ### **Gradient-Free-Optimizers and hyperactive**
+
+**APPLICATIONS CLOSED**
 
 **Simple and reliable optimization with local, global, population-based and sequential techniques**
 
@@ -352,30 +438,3 @@ In the **[dedicated card](cards/PTF.md)** you can find more details about the pr
 * Deadline: April 7, 18:00 UTC
 * Hub & Sponsor: Fondazione Bruno Kessler
 * T&C: pro-rated stipend disbursed by German Center for Open Source AI
-
----
-
-## Applied projects
-
-### **ecoSPECS - AI for biotechnological cleanroom design**
-
-**APPLICATIONS CLOSED**
-
-Build AI for design and equipment qualification of cleanrooms for biotech and pharmacological applications! Work with German engineering services provider ecoSPECS to fundamentally accelerate qualification processes in drug development, production, and monitoring worldwide.
-
-##### Project overview ([link to detail info sheet](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/ecospecs.md))
-
-Cleanroom design for biotech applications involves numerous "boilerplate steps". For instance, creating documentation in pre-specified format, particularly for identifying design and quality requirements within user specifications.
-
-Although the design process is expert-driven, significant amount of formulaic editorial work is required. AI could allow experts to focus on complex design tasks, rather than spending time on boilerplate. This would lead to significant acceleration and cost savings in the availability of biotechnological and pharmaceutical processes, systems, and equipment.
-
-##### About ecoSPECS
-
-[ecoSPECS](https://ecospecs.de/en/) is a German engineering service provider, specializing in services such as qualification, validation, consulting, training, and project planning across various industries, with a focus on pharmaceuticals, engineering, and food production.
-
-**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md)
-
-* Deadline: April 9, 18:00 UTC
-* Hub: German Center for Open Source AI
-* Sponsor: ecoSPECS
-* T&C: pro-rated stipend disbursed by German Center of Open Source AI. Data sharing agreement required.
