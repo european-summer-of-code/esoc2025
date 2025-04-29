@@ -1,4 +1,4 @@
-### ecoSPECS - AI for biotechnological cleanroom design
+### Open Source AI for drug discovery
 
 Build open source AI for drug discovery, accelerating aptamer design for diagnostic and medical applications!
 
