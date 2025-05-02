@@ -36,7 +36,7 @@ If you get stuck or have questions, please feel free to reach out to us on `info
 - March 19, 18:00 (UTC). Applications via the ESoC application form open.
 - April 29, 18:00 (UTC). Applications via the GC.OS application form open.
 - May 14, 18:00 (UTC). First stage. You must complete the ESoC application, and the GC.OS application form by this deadline.
-- May 16. We inform you of the first stage outcome (proceed to interview) *latest* by April 11, but hopefully sooner.
+- May 16. We inform you of the first stage outcome (proceed to interview) *latest* by May 16, but hopefully sooner.
 - May 19 to May 30. Second stage. Interviews happen during this time. Preferred dates are May 19 and 20. Please keep these dates free if possible.
 - June 2. We take at most one week to inform you of the final interview outcome.
 - June 9. The project starts.
