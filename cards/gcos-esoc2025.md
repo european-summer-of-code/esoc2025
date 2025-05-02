@@ -17,6 +17,9 @@ European Summer of Code is a paid stipend programme, through May-September 2025.
 ## The application process
 
 Here is the timeline for the application process. There are three stages, explained in detail below.
+Dates differ by batch.
+
+### batch 1 projects
 
 - March 19, 18:00 (UTC). Applications via the ESoC application form open.
 - March 27, 18:00 (UTC). Applications via the GC.OS application form open.
@@ -28,15 +31,27 @@ Here is the timeline for the application process. There are three stages, explai
 
 If you get stuck or have questions, please feel free to reach out to us on `info(at)gcos(dot)ai` or the [LinkedIn page for ESoC](https://www.linkedin.com/posts/european-summer-of-code)
 
+### batch 3 projects
+
+- March 19, 18:00 (UTC). Applications via the ESoC application form open.
+- April 29, 18:00 (UTC). Applications via the GC.OS application form open.
+- May 14, 18:00 (UTC). First stage. You must complete the ESoC application, and the GC.OS application form by this deadline.
+- May 16. We inform you of the first stage outcome (proceed to interview) *latest* by April 11, but hopefully sooner.
+- May 19 to May 30. Second stage. Interviews happen during this time. Preferred dates are May 19 and 20. Please keep these dates free if possible.
+- June 2. We take at most one week to inform you of the final interview outcome.
+- June 9. The project starts.
+
+If you get stuck or have questions, please feel free to reach out to us on `info(at)gcos(dot)ai` or the [LinkedIn page for ESoC](https://www.linkedin.com/posts/european-summer-of-code)
+
 ### Application forms
 
-The deadline to complete all of these is April 9, 18:00 (UTC).
+The deadline to complete all of these is April 9, 18:00 (UTC) for batch 1, or May 14, 18:00 (UTC) for batch 3.
 
 1. Fill in and submit the [ESoC application form](https://www.linkedin.com/posts/european-summer-of-code_european-summer-of-code-activity-7308135810648715264-RbpO)
 
 2. Fill in and submit the [Project application form](https://forms.office.com/e/GhGWQLdseU).
 
-After the deadline on April 9th has passed, we will process the information provided and tell you the outcome no later than April 11th. There are two possible outcomes:
+After the deadline has passed, we will process the information provided and tell you the outcome no later by the date indicated above. There are two possible outcomes:
 
 - Progress to interview. See below.
 - Rejection.
@@ -45,7 +60,7 @@ After the deadline on April 9th has passed, we will process the information prov
 
 If successful in the above steps, we will invite you to a structured interview (ca. 30 to 60 minutes length; to be finalised) with a panel that consists of members of the partner organisation, and GC.OS staff, or affiliates from open source projects.
 
-The interview will happen in the two-week period April 11 to 25, and our preferred dates are April 15 and 16. Please keep these dates free if possible.
+The interview will happen in a designated two-week that differs per batch (see above). Please keep these preferred dates indicated free if possible.
 
 During the interview:
 
