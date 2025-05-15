@@ -204,6 +204,8 @@ Some examples are [in the project list below](https://github.com/european-summer
 
 ### **open source AI for drug discovery**
 
+**APPLICATIONS CLOSED**
+
 Build open source AI for drug discovery, accelerating aptamer design for diagnostic and medical applications!
 Sponsored by German engineering services provider ecoSPECS.
 
@@ -252,6 +254,8 @@ Although the design process is expert-driven, significant amount of formulaic ed
 ## Open Source projects
 
 ### **pgmpy**
+
+**APPLICATIONS CLOSED**
 
 **The framework for causal inference, causal structure learning, and causal simulation.**
 
