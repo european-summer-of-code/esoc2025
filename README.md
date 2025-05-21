@@ -198,7 +198,7 @@ Build the open source AI landscape for causal AI in time series, with applicatio
 
 Causal time series models are central to many industry grade use cases in production, retail, and supply chain.
 
-Join Electrolux and the German Center for Open Source AI to start building an interoperable, open-source ecosystem of causal tools  for forecasting and structure identification - in collaboration with `pgmpy` and `sktime`.
+Join Electrolux and the German Center for Open Source AI to start building an interoperable, open-source ecosystem of causal tools for forecasting and structure identification - in collaboration with `pgmpy` and `sktime`.
 
 #### About Electrolux
 
