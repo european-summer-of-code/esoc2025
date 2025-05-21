@@ -116,7 +116,7 @@ Applicants need to do *two things*:
     * while there is no limit in the number of projects you can apply for (or penalty), we recommend to focus on at most 3. Applying to too many projects will reduce your time per application and impact application quality.
 
 The deadline for completing *both* ESoC application form, and the project specific application steps,
-by the project deadline. The project deadline is specified in the project card, below.
+by the project application deadline. The project application deadline varies by project, and is specified in the project card, below.
 
 #### FAQs and recommendations
 
