@@ -101,7 +101,7 @@ Currently affiliated projects:
 
 ### Projects
 
-* 2025 projects are released in three batches: March 27, April 10, and April 28.
+* 2025 projects are released  one a rolling basis.
 * projects have their own timelines and may come with their own terms of conditions
 * project specifics are listed in the project card, in the [list of released projects below](https://github.com/european-summer-of-code/esoc2025#2025-project-list)
 
@@ -116,12 +116,7 @@ Applicants need to do *two things*:
     * while there is no limit in the number of projects you can apply for (or penalty), we recommend to focus on at most 3. Applying to too many projects will reduce your time per application and impact application quality.
 
 The deadline for completing *both* ESoC application form, and the project specific application steps,
-is whichever of the following two is earlier: the project application deadline,
-or a fixed date depending on the project batch:
-
-* 18 UTC on April 11, 2025 for projects in batch 1 (released March 27);
-* 18 UTC on April 26, 2025 for projects in batch 2 (released April 10);
-* 18 UTC on May 14, 2025 for projects in batch 3 (released April 28).
+by the project application deadline. The project application deadline varies by project, and is specified in the project card, below.
 
 #### FAQs and recommendations
 
@@ -138,7 +133,7 @@ or a fixed date depending on the project batch:
 ### Outcome and project allocation
 
 You will receive a letter from ESoC on your application(s) no later than 6 weeks
-after the application deadline of the batch(es) you applied to.
+after the application deadline of the project you applied to.
 
 This can be:
 
@@ -151,7 +146,7 @@ The letter will be sent to the e-mail address you registered with.
 
 In case of acceptance, you will need to reply to the letter within 1 week of receipt.
 
-Please note: once you accept the offer from a project, any pending applications of yours to other projects are automatically withdrawn, including those from later batches where the outcome may not yet be clear, or projects where you are on the waitlist.
+Please note: once you accept the offer from a project, any pending applications of yours to other projects in 2025 are automatically withdrawn, including those from later batches where the outcome may not yet be clear, or projects where you are on the waitlist.
 
 
 ## Project and sponsor guide
@@ -161,10 +156,7 @@ Please note: once you accept the offer from a project, any pending applications 
 * Private and public sector organisations wishing to host a project should submit a [project sponsor form](https://forms.office.com/e/0brWFKNrg7). One of our hubs will be in touch shortly after submission.
 * open source projects should directly contact our [LinkedIn organization](https://www.linkedin.com/company/european-summer-of-code) (to be replaced by a form)
 
-One of our hubs will work with you to prepare your project for one of the three release batches:
-
-* March 26 - early bird sponsors
-* April 10 and April 28.
+One of our hubs will work with you to prepare your project for release.
 
 Finalization will require:
 
@@ -193,12 +185,45 @@ Project cards should include:
 Some examples are [in the project list below](https://github.com/european-summer-of-code/esoc2025#2025-project-list).
 
 
-# 2025 Project list
 
-* early bird sponsors released Mar 27
-* batch 2 projects released April 10
-* **batch 3 projects released April 29**
+# 2025 Project list - applications open
 
+## Applied projects
+
+### **Electrolux - Causal learning for time series**
+
+Build the open source AI landscape for causal AI in time series, with applications across supply chain management and retail!
+
+##### Project overview ([link to detail info sheet](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/electrolux.md))
+
+Causal time series models are central to many industry grade use cases in production, retail, and supply chain.
+
+Join Electrolux and the German Center for Open Source AI to start building an interoperable, open-source ecosystem of causal tools for forecasting and structure identification - in collaboration with `pgmpy` and `sktime`.
+
+#### About Electrolux
+
+[Electrolux Group](https://www.electrolux.com) is a leading global appliance company. Products include major appliances and vacuum cleaners intended for home consumer use.
+
+Within Electrolux Group, the AI portfolio includes use cases like prescriptive marketing, production optimization, and dynamic pricing.
+
+**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md). **Also** make at least one substantial pull request to `pgmpy`, `sktime`, or - optimally but not necessarily - both.
+
+* Deadline: June 12, 18:00 UTC
+* Hub: German Center for Open Source AI
+* Sponsor: Electrolux
+* T&C: pro-rated stipend disbursed by German Center of Open Source AI.
+
+
+# 2025 Project list - applications closed
+
+**Previous projects are listed below for reference.**
+
+**Please do not apply - these stipends no longer accept applications.**
+
+For open source projects:
+
+* you are, of course, invited to contribute to any open source project at any time!
+* other opportunities may be available with the respective open source project directly, e.g., mentoring.
 
 ## Applied projects
 

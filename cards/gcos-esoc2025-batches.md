@@ -16,23 +16,36 @@ European Summer of Code is a paid stipend programme, through May-September 2025.
 
 ## The application process
 
-Here is the timeline for the application process.
-Dates are relative to the release of the project.
+Here is the timeline for the application process. There are three stages, explained in detail below.
+Dates differ by batch.
 
-- day 0 = T. Release of the project, announcements
-- T plus 3 calendar weeks, 18:00 (UTC), rounded up. First stage. You must complete all first round application steps by this deadline. This includes the ESoC application, and the GC.OS application form, and any first stage entrance tasks (if specified).
-- First stage entrance tasks are listed in the project card, e.g., opening a PR to an open source repository. Not all projects have this.
-- At latest T plus 4 calendar weeks, 18:00 (UTC) = T2. We inform you of the first stage outcome (proceed to interview) *latest*.
-- two calendar weeks after T2. Second stage. Interviews happen during this time. Preferred days are Monday and Tuesday. You may prefer to keep these days free.
-- Calendar week 3 after T2, at latest. We take at most one week to inform you of the final interview outcome.
-- Calendar week 4 after T2 (at latest calendar week 8 after T). The project starts.
+### batch 1 projects
 
-If you get stuck or have questions, please feel free to reach out to us on [the GitHub discussion forum](https://github.com/european-summer-of-code/esoc2025/discussions), or directly via `info(at)gcos(dot)ai`.
+- March 19, 18:00 (UTC). Applications via the ESoC application form open.
+- March 27, 18:00 (UTC). Applications via the GC.OS application form open.
+- April 9, 18:00 (UTC). First stage. You must complete the ESoC application, and the GC.OS application form by this deadline.
+- April 11. We inform you of the first stage outcome (proceed to interview) *latest* by April 11, but hopefully sooner.
+- April 11 to April 25. Second stage. Interviews happen during this time. Preferred dates are April 15 and 16. Please keep these dates free if possible.
+- May 1. We take at most one week to inform you of the final interview outcome.
+- May 15. The project starts.
 
+If you get stuck or have questions, please feel free to reach out to us on `info(at)gcos(dot)ai` or the [LinkedIn page for ESoC](https://www.linkedin.com/posts/european-summer-of-code)
+
+### batch 3 projects
+
+- March 19, 18:00 (UTC). Applications via the ESoC application form open.
+- April 29, 18:00 (UTC). Applications via the GC.OS application form open.
+- May 14, 18:00 (UTC). First stage. You must complete the ESoC application, and the GC.OS application form by this deadline.
+- May 16. We inform you of the first stage outcome (proceed to interview) *latest* by April 11, but hopefully sooner.
+- May 19 to May 30. Second stage. Interviews happen during this time. Preferred dates are May 19 and 20. Please keep these dates free if possible.
+- June 2. We take at most one week to inform you of the final interview outcome.
+- June 9. The project starts.
+
+If you get stuck or have questions, please feel free to reach out to us on `info(at)gcos(dot)ai` or the [LinkedIn page for ESoC](https://www.linkedin.com/posts/european-summer-of-code)
 
 ### Application forms
 
-The deadline to complete all of these is T plus 3 calendar weeks, 18:00 (UTC), rounded up, where T is the time of first project announcment. This is the same deadline as indicated in the project card or on the webpage, where the exact day will be named.
+The deadline to complete all of these is April 9, 18:00 (UTC) for batch 1, or May 14, 18:00 (UTC) for batch 3.
 
 1. Fill in and submit the [ESoC application form](https://www.linkedin.com/posts/european-summer-of-code_european-summer-of-code-activity-7308135810648715264-RbpO)
 
@@ -47,7 +60,7 @@ After the deadline has passed, we will process the information provided and tell
 
 If successful in the above steps, we will invite you to a structured interview (ca. 30 to 60 minutes length; to be finalised) with a panel that consists of members of the partner organisation, and GC.OS staff, or affiliates from open source projects.
 
-The interview will happen in a designated two-week that differs per project (see above). Please keep these preferred dates indicated free if possible.
+The interview will happen in a designated two-week that differs per batch (see above). Please keep these preferred dates indicated free if possible.
 
 During the interview:
 
