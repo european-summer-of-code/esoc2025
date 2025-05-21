@@ -69,4 +69,5 @@ In the above, the following are used for selection:
 * experience with python programming and AI tools
 * experience with relevant technologies for the project
 * performance in the structured interview (for content see above)
+* performance in the entrance task, if applicable
 * prior contributions to open source python in general, if applicable
