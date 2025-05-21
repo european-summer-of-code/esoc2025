@@ -190,7 +190,7 @@ Some examples are [in the project list below](https://github.com/european-summer
 
 ## Applied projects
 
-### **open source AI for drug discovery**
+### **Electrolux - Causal learning for time series**
 
 Build the open source AI landscape for causal AI in time series, with applications across supply chain management and retail!
 
