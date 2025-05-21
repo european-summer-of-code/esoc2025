@@ -15,6 +15,8 @@ This page contains general information on European Summer of Code 2025:
 * **2025-04-10: Batch 2 projects released!**
 * **2025-03-27: Applicant Guide, Sponsor Guide published**
 * **2025-03-27: Early Bird Batch of Projects released!**
+* **2025-05-16: Start of rolling basis projects**
+* **2025-05-22: New Project release!**
 
 ## Table of contents
 
