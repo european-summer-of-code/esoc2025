@@ -103,7 +103,7 @@ Currently affiliated projects:
 
 ### Projects
 
-* 2025 projects are released  one a rolling basis.
+* 2025 projects are released  on a rolling basis.
 * projects have their own timelines and may come with their own terms of conditions
 * project specifics are listed in the project card, in the [list of released projects below](https://github.com/european-summer-of-code/esoc2025#2025-project-list)
 
