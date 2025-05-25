@@ -57,7 +57,7 @@ and applicants to work on open source directly in an applied context.
 ESoC is organized in a decentral and distributed fashion, by hubs.
 Current hubs are:
 
-* France: probabl - the scikit-learn company
+* France: probably - the scikit-learn company
 * Germany: German Center for Open Source AI
 * Italy: Fondazione Bruno Kessler
 
