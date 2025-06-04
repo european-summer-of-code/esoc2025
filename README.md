@@ -4,14 +4,14 @@ This page contains general information on European Summer of Code 2025:
 
 * European Summer of Code: background and org structure
 * For applicants: how to apply, list of projects 2025
-* For projects: how ot join, timelines
+* For projects: how to join, timelines
 
 [ESoC webpage](https://www.esoc.dev) - [ESoC on LinkedIn](https://www.linkedin.com/company/european-summer-of-code)
 
 ## Changelog
 
 * **2025-04-29: Batch 3 projects released**
-* **2025-04-28: new Batch 3 projects release date**
+* **2025-04-28: New Batch 3 projects release date**
 * **2025-04-10: Batch 2 projects released!**
 * **2025-03-27: Applicant Guide, Sponsor Guide published**
 * **2025-03-27: Early Bird Batch of Projects released!**
@@ -103,7 +103,7 @@ Currently affiliated projects:
 
 ### Projects
 
-* 2025 projects are released  one a rolling basis.
+* 2025 projects are released  on a rolling basis.
 * projects have their own timelines and may come with their own terms of conditions
 * project specifics are listed in the project card, in the [list of released projects below](https://github.com/european-summer-of-code/esoc2025#2025-project-list)
 
@@ -113,18 +113,18 @@ Applicants need to do *two things*:
 
 * **register for ESoC** through the [ESoC applicant registration form](https://forms.office.com/e/ArWLD0DqVv)
 * **follow any additional "how to apply" steps from the project card** of your preferred projects
-    * the project card may require you to fill out a second form, or complete an additional task
-    * the project card may also simply say that filling out the ESoC form suffices (as long as you mention the project)
-    * while there is no limit in the number of projects you can apply for (or penalty), we recommend to focus on at most 3. Applying to too many projects will reduce your time per application and impact application quality.
+    * The project card may require you to fill out a second form, or complete an additional task
+    * The project card may also simply say that filling out the ESoC form suffices (as long as you mention the project)
+    * While there is no limit in the number of projects you can apply for (or penalty), we recommend to focus on at most 3. Applying to too many projects will reduce your time per application and impact application quality.
 
 The deadline for completing *both* ESoC application form, and the project specific application steps,
 by the project application deadline. The project application deadline varies by project, and is specified in the project card, below.
 
 #### FAQs and recommendations
 
-* please ensure your submitted e-mail address is correct. Letters will be sent to this e-mail address.
-* please use the same name and e-mail for any fields and forms throughout the process
-* ensure to note down relevant date periods in advance, and ensure to check your e-mail in those periods.
+* Please ensure your submitted e-mail address is correct. Letters will be sent to this e-mail address.
+* Please use the same name and e-mail for any fields and forms throughout the process
+* Ensure to note down relevant date periods in advance, and ensure to check your e-mail in those periods.
 * In case of submitted forms, most forms allow you to update the submission up until the deadline.
 * If this is not the case, simply submit another application under the same name. The last submission received before the deadline for a given project counts.
     * note that the last *received* forms count here - not *submitted* forms which are not received due to technical error, or received too late.
