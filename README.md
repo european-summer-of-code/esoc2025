@@ -155,7 +155,7 @@ Please note: once you accept the offer from a project, any pending applications 
 
 ### Onboarding process
 
-* Private and public sector organisations wishing to host a project should submit a [project sponsor form](https://forms.office.com/e/0brWFKNrg7). One of our hubs will be in touch shortly after submission.
+* Private and public sector organisations wishing to host a project should submit a [project sponsor form](https://forms.office.com/e/0brWFKNrg7).
 * open source projects should submit an [open source project form](https://forms.office.com/e/SYZhwAUShs). 
 
 One of our hubs will be in touch shortly after submission, for review.
@@ -169,7 +169,7 @@ Finalization for sponsored projects requires:
     * option A: donation for stipend. This is easiest, with low contractual complexity: you donate to a hub, and the hub contracts with the participant. The "stipend" requires that a significant portion (but not all) of the outputs are in the open domain, e.g., contributions to an open source project or a research report.
     * option B: paid internship. You can use your own contract template, in this case the hub will only act as matchmaker, and you will diractly contract with applicants and manage any tax and visa requirements.
 
-(this information queried via the form)
+(this information queried via the [project sponsor form](https://forms.office.com/e/0brWFKNrg7))
 
 * completing the project card, see [details below](https://github.com/european-summer-of-code/esoc2025#project-card) and [example project cards](https://github.com/european-summer-of-code/esoc2025#2025-project-list)
     * this includes finalizing an application process with your hub.
@@ -190,7 +190,7 @@ Open source project should:
 * ensure that mentors are available
 * communicate their capacity for stipend slots and mentored slots
 
-(this information queried via the form)
+(this information queried via the [open source project form](https://forms.office.com/e/SYZhwAUShs))
 
 ### Project card
 
