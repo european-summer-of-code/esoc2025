@@ -103,7 +103,7 @@ Currently affiliated projects:
 
 ### Projects
 
-* 2025 projects are released  on a rolling basis.
+* 2025 projects are released on a rolling basis.
 * projects have their own timelines and may come with their own terms of conditions
 * project specifics are listed in the project card, in the [list of released projects below](https://github.com/european-summer-of-code/esoc2025#2025-project-list)
 
@@ -156,20 +156,41 @@ Please note: once you accept the offer from a project, any pending applications 
 ### Onboarding process
 
 * Private and public sector organisations wishing to host a project should submit a [project sponsor form](https://forms.office.com/e/0brWFKNrg7). One of our hubs will be in touch shortly after submission.
-* open source projects should directly contact our [LinkedIn organization](https://www.linkedin.com/company/european-summer-of-code) (to be replaced by a form)
+* open source projects should submit an [open source project form](https://forms.office.com/e/SYZhwAUShs). 
 
-One of our hubs will work with you to prepare your project for release.
+One of our hubs will be in touch shortly after submission, for review.
+In case of positive decision, we will work with you to prepare your project for release or onboarding.
 
-Finalization will require:
+#### Sponsored projects
+
+Finalization for sponsored projects requires:
 
 * choosing a funding model:
     * option A: donation for stipend. This is easiest, with low contractual complexity: you donate to a hub, and the hub contracts with the participant. The "stipend" requires that a significant portion (but not all) of the outputs are in the open domain, e.g., contributions to an open source project or a research report.
     * option B: paid internship. You can use your own contract template, in this case the hub will only act as matchmaker, and you will diractly contract with applicants and manage any tax and visa requirements.
 
+(this information queried via the form)
+
 * completing the project card, see [details below](https://github.com/european-summer-of-code/esoc2025#project-card) and [example project cards](https://github.com/european-summer-of-code/esoc2025#2025-project-list)
     * this includes finalizing an application process with your hub.
     "Default" processes are available, these select for generic AI, python, and open source capabilities.
     * for data driven projects, it will also require finalizing data batches and data sharing processes before the project starts
+
+#### Open Source projects
+
+Open source projects should let us know via the form what they are looking for:
+
+* sponsoring for development (internal project)
+* matchmaking with applied AI projects
+* contributor onboarding
+
+Open source project should:
+
+* create a list with development projects
+* ensure that mentors are available
+* communicate their capacity for stipend slots and mentored slots
+
+(this information queried via the form)
 
 ### Project card
 
