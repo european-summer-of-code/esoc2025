@@ -8,11 +8,22 @@ European Summer of Code is a paid stipend programme, through May-September 2025.
 
 * ESoC stipend holder participate in onboarding events, regular stand-ups and mentoring throughout the period
 * collaboration is virtual, via GitHub and Discord. Some partner organisations may optionally offer hybrid or in-person collaboration.
-* full time dedication to the stipend project is expected throughout the mid-year period (12 calendar weeks), excluding 5 working days of pause
+* full time dedication to the stipend project is expected throughout the mid-year period (12 calendar weeks), excluding 5 working days of pause.
 * flexible time arrangement are possible, at discretion of partner organisations - but 3 months continuous full time availability is normally expected
 * the internship is accompanied by a pro-rata based on a flat stipend of 4.800 Euro for 3 months full-time equivalent. Disbursement is via stipend through the ESoC hub GC.OS (German Center for Open Source AI)
 * the internship does not constitute formal employment, nor are there delivery expectations. Reimbursement at the discretion of GC.OS.
 * the project may require signing a data sharing agreement. In this case, the agreement will be shared and can be reviewed by candidates before accepting the stipend.
+
+Optionally, projects may offer additional mentored participation for ranking candidates, or for candidates who are unable to participate with full time dedication. Mentoring slots may be unpaid or paid at a lower rate.
+
+### full time dedication requirement
+
+For avoidance of doubt:
+
+* "full time dedication" is a contractual condition, and mutually exclusive with other full time engagements, such as employment, or alternative paid stipend programmes of similar nature
+* for disbursement of stipend, the stipend project must be the primary professional activity, measured at >80% of total professional time over the stipend period
+
+Optional mentored slots may not require full time participation. The exact conditions for being offered a mentored slot are at the discretion of the project, and are typically outlined on the project card.
 
 ## The application process
 
