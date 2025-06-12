@@ -10,7 +10,7 @@ European Summer of Code is a paid stipend programme, through May-September 2025.
 * collaboration is virtual, via GitHub and Discord. Some partner organisations may optionally offer hybrid or in-person collaboration.
 * full time dedication to the stipend project is expected throughout the mid-year period (12 calendar weeks), excluding 5 working days of pause.
 * flexible time arrangement are possible, at discretion of partner organisations - but 3 months continuous full time availability is normally expected
-* the internship is accompanied by a pro-rata based on a flat stipend of 4.800 Euro for 3 months full-time equivalent. Disbursement is via stipend through the ESoC hub GC.OS (German Center for Open Source AI)
+* the internship is accompanied by a pro-rata based on a flat stipend of 4.800 Euro for 3 months full-time equivalent (= 1.600 Euro per month, for 3 months). Disbursement is via stipend through the ESoC hub GC.OS (German Center for Open Source AI)
 * the internship does not constitute formal employment, nor are there delivery expectations. Reimbursement at the discretion of GC.OS.
 * the project may require signing a data sharing agreement. In this case, the agreement will be shared and can be reviewed by candidates before accepting the stipend.
 
