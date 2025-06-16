@@ -208,12 +208,27 @@ Project cards should include:
 Some examples are [in the project list below](https://github.com/european-summer-of-code/esoc2025#2025-project-list).
 
 
-
 # 2025 Project list - applications open
+
+There are currently no open projects. Subscribe to our LinkedIn to get updated of newly released projects!
+
+
+# 2025 Project list - applications closed
+
+**Previous projects are listed below for reference.**
+
+**Please do not apply - these stipends no longer accept applications.**
+
+For open source projects:
+
+* you are, of course, invited to contribute to any open source project at any time!
+* other opportunities may be available with the respective open source project directly, e.g., mentoring.
 
 ## Applied projects
 
 ### **Electrolux - Causal learning for time series**
+
+**APPLICATIONS CLOSED**
 
 Build the open source AI landscape for causal AI in time series, with applications across supply chain management and retail!
 
@@ -235,20 +250,6 @@ Within Electrolux Group, the AI portfolio includes use cases like prescriptive m
 * Hub: German Center for Open Source AI
 * Sponsor: Electrolux
 * T&C: pro-rated stipend disbursed by German Center of Open Source AI.
-
-
-# 2025 Project list - applications closed
-
-**Previous projects are listed below for reference.**
-
-**Please do not apply - these stipends no longer accept applications.**
-
-For open source projects:
-
-* you are, of course, invited to contribute to any open source project at any time!
-* other opportunities may be available with the respective open source project directly, e.g., mentoring.
-
-## Applied projects
 
 ### **open source AI for drug discovery**
 
