@@ -220,7 +220,7 @@ For open source projects:
 
 ### **AI-on-Demand Platform and OpenML**
 
-**The open AI hubs where models, benchmarks, and users connect.”**
+**The open AI hubs where models, benchmarks, and users connect.**
 
 Contribute to build the European AI-on-Demand Platform using `openml` - the open hubs for AI models, benchmarks, and projects.
 Help create the open, public controlled platform to share models and results, and increase interoperability with the most popular machine learning and AI packages!
