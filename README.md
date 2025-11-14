@@ -236,7 +236,7 @@ Recently launched, it uses `openml` as one of its core backends to serve machine
 
 ##### 2025 ESoC projects - hub: GC.OS
 
-Multiple stipends are available in collaboration with the German Center for Open Source AI ([discord](https://discord.gg/7uKdHfdcJG)).
+Up to 5 stipends are available in collaboration with the German Center for Open Source AI ([discord](https://discord.gg/7uKdHfdcJG)).
 The project is focusing on:
 
 * improving model sharing ability via `openml-python`
