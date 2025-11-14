@@ -4,7 +4,7 @@ For questions about the process, please contact `info(at)gcos(dot)ai` or the [Li
 
 ## Applied project set-up
 
-European Summer of Code is a paid stipend programme, through May-September 2025.
+European Summer of Code is a paid stipend programme, throughout 2025.
 
 * ESoC stipend holder participate in onboarding events, regular stand-ups and mentoring throughout the period
 * collaboration is virtual, via GitHub and Discord, or similar tools. Some partner organisations may optionally offer hybrid or in-person collaboration.
@@ -31,19 +31,19 @@ Here is the timeline for the application process.
 Dates are relative to the release of the project.
 
 - day 0 = T. Release of the project, announcements
-- T plus 3 calendar weeks, 18:00 (UTC), rounded up. First stage. You must complete all first round application steps by this deadline. This includes the ESoC application, and the GC.OS application form, and any first stage entrance tasks (if specified).
+- T plus 2 or 3 calendar weeks, 18:00 (UTC), rounded up - see exact time on projects page. First stage. You must complete all first round application steps by this deadline. This includes the ESoC application, and the GC.OS application form, and any first stage entrance tasks (if specified).
 - First stage entrance tasks are listed in the project card, e.g., opening a PR to an open source repository. Not all projects have this.
 - At latest T plus 4 calendar weeks, 18:00 (UTC) = T2. We inform you of the first stage outcome (proceed to interview) *latest*.
 - two calendar weeks after T2. Second stage. Interviews happen during this time. Preferred days are Monday and Tuesday. You may prefer to keep these days free.
 - Calendar week 3 after T2, at latest. We take at most one week to inform you of the final interview outcome.
-- Calendar week 4 after T2 (at latest calendar week 8 after T). The project starts.
+- Calendar week 4 after T2, at latest (calendar week 8 after T). The project starts.
 
 If you get stuck or have questions, please feel free to reach out to us on [the GitHub discussion forum](https://github.com/european-summer-of-code/esoc2025/discussions), or directly via `info(at)gcos(dot)ai`.
 
 
 ### Application forms
 
-The deadline to complete all of these is T plus 3 calendar weeks, 18:00 (UTC), rounded up, where T is the time of first project announcment. This is the same deadline as indicated in the project card or on the webpage, where the exact day will be named.
+The deadline to complete all of these is T plus 2 or 3 calendar week, 18:00 (UTC), rounded up, where T is the time of first project announcment. This is the same deadline as indicated in the project card or on the webpage, where the exact day will be named.
 
 1. Fill in and submit the [ESoC application form](https://www.linkedin.com/posts/european-summer-of-code_european-summer-of-code-activity-7308135810648715264-RbpO)
 
