@@ -250,7 +250,7 @@ The project is focusing on:
 
 * Deadline: Nov 28, 18:00 UTC
 * Hub: German Center for Open Source AI
-* Sponsor: EU Horizon Programme, via AIoD project
+* Sponsor: EU Horizon Research and Innovation Programme, via AIoD project
 * T&C: pro-rated stipend disbursed by German Center for Open Source AI
 
 
