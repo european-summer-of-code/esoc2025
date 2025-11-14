@@ -10,13 +10,14 @@ This page contains general information on European Summer of Code 2025:
 
 ## Changelog
 
+* **2025-11-14: New Project release!**
+* **2025-05-22: New Project release!**
+* **2025-05-16: Start of rolling basis projects**
 * **2025-04-29: Batch 3 projects released**
 * **2025-04-28: New Batch 3 projects release date**
 * **2025-04-10: Batch 2 projects released!**
 * **2025-03-27: Applicant Guide, Sponsor Guide published**
 * **2025-03-27: Early Bird Batch of Projects released!**
-* **2025-05-16: Start of rolling basis projects**
-* **2025-05-22: New Project release!**
 
 ## Table of contents
 
@@ -210,7 +211,47 @@ Some examples are [in the project list below](https://github.com/european-summer
 
 # 2025 Project list - applications open
 
-There are currently no open projects. Subscribe to our LinkedIn to get updated of newly released projects!
+For open source projects:
+
+* you are, of course, invited to contribute to any open source project at any time!
+* other opportunities may be available with the respective open source project directly, e.g., mentoring.
+
+## Applied projects
+
+### **AI-on-Demand Platform and OpenML**
+
+**The open AI hubs where models, benchmarks, and users connect.”**
+
+Contribute to build the European AI-on-Demand Platform using `openml` - the open hubs for AI models, benchmarks, and projects.
+Help create the open, public controlled platform to share models and results, and increase interoperability with the most popular machine learning and AI packages!
+
+##### About the AI-on-Demand Platform and OpenML
+
+The AI-on-Demand Platform is Europe's ambition to enable sharing of AI artefacts - models, weights, benchmarks, services - with anyone and everyone.
+
+Recently launched, it uses `openml` as one of its core backends to serve machine learning models and experiments.
+`openml` is an open-source project backed by an active community of researchers and developers.
+
+[openML GitHub](https://github.com/openml/OpenML) · [AIoD platform](https://aiod.eu/media-hub/ai-on-demand-platform-expands-to-accelerate-european-ai-innovation-across-research-and-industry/)
+
+##### 2025 ESoC projects - hub: GC.OS
+
+Multiple stipends are available in collaboration with the German Center for Open Source AI ([discord](https://discord.gg/7uKdHfdcJG)).
+The project is focusing on:
+
+* improving model sharing ability via `openml-python`
+* improving user experience of the model catalogue in AIoD and openML
+* extending benchmarking features
+* extending integration with model artefacts in the wider python landscape
+
+**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md). **Also** ensure you have made make at least one substantial pull request in 2025 (prior to application deadline) to one of the following packages:
+
+`openml` (including sub-repos), `scikit-learn`, `huggingface` (including sub-repos), `sktime`, `skpro`, `scikit-base`, 
+
+* Deadline: Nov 30, 18:00 UTC
+* Hub: German Center for Open Source AI
+* Sponsor: EU Horizon Programme, via AIoD project
+* T&C: pro-rated stipend disbursed by German Center for Open Source AI
 
 
 # 2025 Project list - applications closed
@@ -218,11 +259,6 @@ There are currently no open projects. Subscribe to our LinkedIn to get updated o
 **Previous projects are listed below for reference.**
 
 **Please do not apply - these stipends no longer accept applications.**
-
-For open source projects:
-
-* you are, of course, invited to contribute to any open source project at any time!
-* other opportunities may be available with the respective open source project directly, e.g., mentoring.
 
 ## Applied projects
 
