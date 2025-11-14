@@ -246,9 +246,9 @@ The project is focusing on:
 
 **HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md). **Also** ensure you have made make at least one substantial pull request in 2025 (prior to application deadline) to one of the following packages:
 
-`openml` (including sub-repos), `scikit-learn`, `huggingface` (including sub-repos), `sktime`, `skpro`, `scikit-base`, 
+`openml` (including sub-repos), `scikit-learn`, `huggingface` (including sub-repos), `sktime`, `skpro`, `scikit-base`, `hyperactive`
 
-* Deadline: Nov 30, 18:00 UTC
+* Deadline: Nov 28, 18:00 UTC
 * Hub: German Center for Open Source AI
 * Sponsor: EU Horizon Programme, via AIoD project
 * T&C: pro-rated stipend disbursed by German Center for Open Source AI
